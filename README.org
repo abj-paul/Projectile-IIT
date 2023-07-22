@@ -1,0 +1,6 @@
+* Plan
+- [ ] A Project Submission page. We will upload images for now. We will cover videos later on.
+- [ ] A timeline of project.
+- [ ] A view project page
+** Late plans
+- [ ] Use firebase in place of mysql
