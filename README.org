@@ -4,3 +4,5 @@
 - [ ] A view project page
 ** Late plans
 - [ ] Use firebase in place of mysql
+- [ ] Upload Video Demo
+- [ ] A blog page on projects
