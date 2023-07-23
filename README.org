@@ -2,6 +2,7 @@
 - [ ] A Project Submission page. We will upload images for now. We will cover videos later on.
 - [ ] A timeline of project.
 - [ ] A view project page
+- [ ] Search Engine Using Information Retrieval & Topic Modeling
 ** Late plans
 - [ ] Use firebase in place of mysql
 - [ ] Upload Video Demo
